@@ -1,2 +1,3 @@
 # GLSLBackground
 GLSLShaderを使ってMInecraftの背景を動かすことができます
+ファイルのパスとかは自身で設定してください
